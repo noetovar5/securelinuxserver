@@ -2,7 +2,7 @@
 step by step guide to secure linux server on the network
 
 
-Creating an ebook within this platform isn't possible due to limitations, but I can provide you with a comprehensive guide on securing an Ubuntu server on a network and setting up automatic updates using cronjobs.
+ #A comprehensive guide on securing an Ubuntu server on a network and setting up automatic updates using cronjobs.
 
 ### Securing an Ubuntu Server on the Network
 
